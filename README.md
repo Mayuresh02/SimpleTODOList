@@ -1,2 +1,1 @@
-# SimpleTODOList
- 
+It is a simple to do list
